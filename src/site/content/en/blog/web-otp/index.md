@@ -466,3 +466,6 @@ for strong authentication.
 {% Aside %}
 Find more questions at [the FAQ section in the explainer](https://github.com/WICG/WebOTP/blob/master/FAQ.md).
 {% endAside %}
+
+For integrate code with angular pwa:
+https://rohit3230.github.io/webOtpAutoReadByAngular/
